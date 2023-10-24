@@ -1,2 +1,2 @@
 # UB-TTT-Project
-TicTacToe Project by Michelle &amp; Danny
+TicTacToe Project by Danny
